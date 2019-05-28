@@ -1,0 +1,15 @@
+# Ignore .cache files under node_modules
+.cache
+.vscode/
+package-lock.json
+/node_modules/webpack-dev-server/ssl
+node_modules/
+# IDEs
+/.idea
+
+# Git
+*.orig
+
+# Macs
+.DS_Store
+.vscode/
