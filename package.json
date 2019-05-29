@@ -1,6 +1,6 @@
 {
   "name": "pluto-common-npm-package",
-  "version": "0.3.97",
+  "version": "0.3.99",
   "main": "dist/main.js",
   "scripts": {
     "build": "webpack --config webpack.config.js"
