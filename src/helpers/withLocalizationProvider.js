@@ -1,4 +1,4 @@
-import * as React from "react";
+import React from "react";
 import LocalizationProvider from "./LocalizationProvider";
 
 export const withLocalizationProvider = Component =>

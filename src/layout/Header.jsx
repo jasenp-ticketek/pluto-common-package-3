@@ -1,4 +1,4 @@
-import * as React from "react";
+import React from "react";
 import { withFirebaseAuthentication } from "../auth/withFirebaseAuthentication";
 import PropTypes from "prop-types";
 import logoImage from "../images/new-logo.png";

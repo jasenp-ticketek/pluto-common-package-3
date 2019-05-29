@@ -1,4 +1,4 @@
-import * as React from "react";
+import React from "react";
 import LocalizationContext from "./LocalizationContext";
 
 export class LocalizationProvider extends React.Component {
