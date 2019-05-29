@@ -10,6 +10,8 @@ import { withLocalization } from "./helpers/withLocalization";
 import { withLocalizationProvider } from "./helpers/withLocalizationProvider";
 import { LocalizationProvider } from "./helpers/LocalizationProvider";
 
+const TestComponent = () => <h1>Test Component</h1>;
+
 export {
   Header,
   Footer,
@@ -21,5 +23,6 @@ export {
   debounce,
   withLocalization,
   withLocalizationProvider,
-  LocalizationProvider
+  LocalizationProvider,
+  TestComponent
 };
